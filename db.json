@@ -1,36 +1,33 @@
 {
 	"tournaments": [
 		{
-			"Name" : "Tournament 1",
-			"Place": "ABC DEF",
-			"Date": "26 Jan 2019",
-			"Grade": "Grade 1"
+			"name" : "Tournament 1",
+			"location": "IND",
+			"startDate": "26 Jan 2019",
+            "endDate": "29 Jan 2019",
+			"grade": "Grade 1"
 		},
-		{
-			"Name" : "Tournament 2",
-			"Place": "ABCDEF GHIJ",
-			"Date": "26 Jan 2019",
-			"Grade": "Grade 4"
+        {
+			"name" : "Tournament 2",
+			"location": "IND",
+			"startDate": "26 Jan 2019",
+            "endDate": "30 Jan 2019",
+			"grade": "Grade 1"
 		},
-		{
-			"Name" : "Tournament 3",
-			"Place": "ABC DEF",
-			"Date": "26 Jan 2019",
-			"Grade": "Grade 1"
+        {
+			"name" : "Tournament 3",
+			"location": "IND",
+			"startDate": "26 Jan 2019",
+            "endDate": "28 Jan 2019",
+			"grade": "Grade 2"
+		},  
+        {
+			"name" : "Tournament 4",
+			"location": "IND",
+			"startDate": "26 Jan 2019",
+            "endDate": "27 Jan 2019",
+			"grade": "Grade 6"
 		},
-		{
-			"Name" : "Tournament 4",
-			"Place": "ABC DEF",
-			"Date": "26 Jan 2019",
-			"Grade": "Grade 1"
-		},
-		{
-			"Name" : "Tournament 5",
-			"Place": "ABC DEF",
-			"Date": "26 Jan 2019",
-			"Grade": "Grade 1"
-		}
-
 
 	]
 
