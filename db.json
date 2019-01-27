@@ -9,22 +9,22 @@
 		},
         {
 			"name" : "Tournament 2",
-			"location": "IND",
-			"startDate": "26 Jan 2019",
+			"location" : "IND",
+			"startDate" : "26 Jan 2019",
             "endDate": "30 Jan 2019",
 			"grade": "Grade 1"
 		},
         {
 			"name" : "Tournament 3",
 			"location": "IND",
-			"startDate": "26 Jan 2019",
-            "endDate": "28 Jan 2019",
+			"startDate" : "26 Jan 2019",
+            "endDate" : "28 Jan 2019",
 			"grade": "Grade 2"
 		},  
         {
 			"name" : "Tournament 4",
-			"location": "IND",
-			"startDate": "26 Jan 2019",
+			"location" : "IND",
+			"startDate" : "26 Jan 2019",
             "endDate": "27 Jan 2019",
 			"grade": "Grade 6"
 		}
