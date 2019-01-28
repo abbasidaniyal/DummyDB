@@ -1,41 +1,6 @@
 {
 	"tournaments": [
-		{
-			"name": "WELUMA International Open 2019",
-			"date": "01 Jan - 06 Jan 2019",
-			"grade": "Grade 3",
-			"place": "GER"
-		},
-{
-			"name": "2019 Wilson/Mayfair Senior ITF 1",
-			"date": "02 Jan - 06 Jan 2019",
-			"grade": "Grade 2",
-			"place": "CAN"
-		},
-{
-			"name": "Yeltsin Cup 2019",
-			"date": "04 Jan - 09 Jan 2019",
-			"grade": "Grade 4",
-			"place": "RUS"
-		},
-{
-			"name": "Hong Kong ITF Super Seniors Tournament 2019",
-			"date": "07 Jan - 11 Jan 2019",
-			"grade": "Grade 4",
-			"place": "HKG"
-		},
-{
-			"name": "43. European Senior Open (35+, 40+, 45+, 50+, 55+, 60+)",
-			"date": "11 Jan - 20 Jan 2019",
-			"grade": "Grade A",
-			"place": "AUT"
-		},
-{
-			"name": "Munchausen Cup",
-			"date": "11 Jan - 15 Jan 2019",
-			"grade": "Grade 3",
-			"place": "LAT"
-		},
+		
 {
 			"name": "Westerwald Seniors Open 2019",
 			"date": "11 Jan - 20 Jan 2019",
