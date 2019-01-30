@@ -121,66 +121,7 @@
             },
             "year": "2019"
         },
-        {
-            "name": "Menton Tournoi Seniors +",
-            "date": "11 Mar - 21 Mar 2019",
-            "grade": "Grade 1",
-            "place": "FRA",
-            "startDate": {
-                "date": "11",
-                "month": "Mar"
-            },
-            "endDate": {
-                "date": "21",
-                "month": "Mar"
-            },
-            "year": "2019"
-        },
-        {
-            "name": "Rafa Nadal Academy By Movistar Seniors V",
-            "date": "11 Mar - 16 Mar 2019",
-            "grade": "Grade 4",
-            "place": "ESP",
-            "startDate": {
-                "date": "11",
-                "month": "Mar"
-            },
-            "endDate": {
-                "date": "16",
-                "month": "Mar"
-            },
-            "year": "2019"
-        },
-        {
-            "name": "USTA National Men's 70 & 75 Indoor Championships",
-            "date": "11 Mar - 16 Mar 2019",
-            "grade": "Grade A",
-            "place": "USA",
-            "startDate": {
-                "date": "11",
-                "month": "Mar"
-            },
-            "endDate": {
-                "date": "16",
-                "month": "Mar"
-            },
-            "year": "2019"
-        },
-        {
-            "name": "III Edición Senior Sport Slam (Closed)",
-            "date": "13 Mar - 16 Mar 2019",
-            "grade": "Grade 4",
-            "place": "NCA",
-            "startDate": {
-                "date": "13",
-                "month": "Mar"
-            },
-            "endDate": {
-                "date": "16",
-                "month": "Mar"
-            },
-            "year": "2019"
-        },
+        
         {
             "name": "Norwegian Indoor National Championship",
             "date": "14 Mar - 19 Mar 2019",
